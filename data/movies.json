@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Sling Blade",
+    "year": 1996,
+    "director": "Billy Bob Thornton",
+    "location": "Benton, Arkansas",
+    "genre": "Drama",
+    "poster": "placeholder.jpg"
+  },
+  {
+    "title": "Mud",
+    "year": 2012,
+    "director": "Jeff Nichols",
+    "location": "DeWitt, Arkansas",
+    "genre": "Drama",
+    "poster": "placeholder.jpg"
+  },
+  {
+    "title": "True Grit",
+    "year": 2010,
+    "director": "Coen Brothers",
+    "location": "Northwest Arkansas",
+    "genre": "Western",
+    "poster": "placeholder.jpg"
+  }
+]
