@@ -22,5 +22,29 @@
     "location": "Northwest Arkansas",
     "genre": "Western",
     "poster": "truegrit2010.jpg"
-  }
+  },
+  {
+    "title": "The White River Kid",
+    "year": 1999,
+    "director": "Arne Glimcher",
+    "location": "Central Arkansas",
+    "genre": "Comedy",
+    "poster": "whiteriverkid.jpg"
+  },
+  {
+    "title": "Chrystal",
+    "year": 2004,
+    "director": "Ray McKinnon",
+    "location": "Eureka Springs, Arkansas",
+    "genre": "Drama",
+    "poster": "chrystalfilm.jpg"
+  },
+  {
+    "title": "One False Move",
+    "year": 1992,
+    "director": "Carl Franklin",
+    "location": "Star City, Arkansas",
+    "genre": "Crime Thriller",
+    "poster": "One_false_move.jpg"
+  },
 ]
