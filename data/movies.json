@@ -5,7 +5,7 @@
     "director": "Billy Bob Thornton",
     "location": "Benton, Arkansas",
     "genre": "Drama",
-    "poster": "placeholder.jpg"
+    "poster": "Slingbladeposter.jpg"
   },
   {
     "title": "Mud",
@@ -13,7 +13,7 @@
     "director": "Jeff Nichols",
     "location": "DeWitt, Arkansas",
     "genre": "Drama",
-    "poster": "placeholder.jpg"
+    "poster": "mudposter.png"
   },
   {
     "title": "True Grit",
@@ -21,6 +21,6 @@
     "director": "Coen Brothers",
     "location": "Northwest Arkansas",
     "genre": "Western",
-    "poster": "placeholder.jpg"
+    "poster": "trugrit2010.jpg"
   }
 ]
