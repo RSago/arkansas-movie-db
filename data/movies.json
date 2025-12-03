@@ -94,5 +94,32 @@
     "location": "Ouachita Mountains, Arkansas",
     "genre": "Western",
     "poster": "Sugar_Creek_FilmPoster.jpeg"
+  },
+  
+  {
+    "title": "Boxcar Bertha",
+    "year": 1972,
+    "director": "Martin Scorsese",
+    "location": "Rural Arkansas",
+    "genre": "Drama",
+    "poster": "boxcarbertha.png"
+  },
+  
+  {
+    "title": "The Legend of Boggy Creek",
+    "year": 1972,
+    "director": "Charles B. Pierce",
+    "location": "Fouke, Arkansas",
+    "genre": "Horror",
+    "poster": "The_Legend_of_Boggy_Creek_promotional_poster.jpeg"
+  },
+  
+  {
+    "title": "A Soldier's Story",
+    "year": 1984,
+    "director": "Norman Jewison",
+    "location": "Fort Chaffee, Arkansas",
+    "genre": "Drama",
+    "poster": "soldierstory.jpg"
   }
 ]
