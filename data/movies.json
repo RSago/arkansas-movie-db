@@ -70,5 +70,29 @@
     "location": "Dyess, Arkansas",
     "genre": "Drama",
     "poster": "Walk_the_line_poster.jpg"
+  },
+  {
+    "title": "The Town that Dreaded Sundown",
+    "year": 1976,
+    "director": "Charles B. Pierce",
+    "location": "Texarkana, Arkansas",
+    "genre": "Horror",
+    "poster": "The_Town_That_Dreaded_Sundown_1976_poster.jpg"
+  },
+  {
+    "title": "The River Within",
+    "year": 2009,
+    "director": "Zac Heath",
+    "location": "Northeast Arkansas",
+    "genre": "Drama",
+    "poster": "River_Poster_Theatrical.jpg"
+  },
+  {
+    "title": "Sugar Creek",
+    "year": 2005,
+    "director": "James Cotten",
+    "location": "Ouachita Mountains, Arkansas",
+    "genre": "Western",
+    "poster": "Sugar_Creek_FilmPoster.jpg"
   }
 ]
