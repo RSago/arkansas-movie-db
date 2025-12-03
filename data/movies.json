@@ -46,5 +46,29 @@
     "location": "Star City, Arkansas",
     "genre": "Crime Thriller",
     "poster": "One_false_move.jpg"
+  },
+  {
+    "title": "The Firm",
+    "year": 1993,
+    "director": "Sydney Pollack",
+    "location": "West Memphis, Arkansas",
+    "genre": "Legal Thriller",
+    "poster": "Firm_ver2.jpg"
+  },
+  {
+    "title": "A Gathering of Eagles",
+    "year": 1963,
+    "director": "Delbert Mann",
+    "location": "Mississippi County, Arkansas",
+    "genre": "Drama",
+    "poster": "Gathering_of_Eagles_poster.jpg"
+  },
+  {
+    "title": "Walk the Line",
+    "year": 2005,
+    "director": "James Mangold",
+    "location": "Dyess, Arkansas",
+    "genre": "Drama",
+    "poster": "Walk_the_line_poster.jpg"
   }
 ]
